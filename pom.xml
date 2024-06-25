@@ -15,6 +15,13 @@
   </properties>
 
   <dependencies>
+	<!-- htps://mvnrepository.com/artifact/org.eclipse.dirigible/dirigible-database-h2 -->
+<dependency>
+    <groupId>org.eclipse.dirigible</groupId>
+    <artifactId>dirigible-database-h2</artifactId>
+    <version>10.5.6</version>
+</dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
