@@ -11,4 +11,10 @@ public class Test {
 	public void developer() {
 		System.out.println("This is developr code");
 	}
+	
+	 // this commit by the developer
+    public String afternoon() {
+		return "task Completed";
+    	
+    }
 }
