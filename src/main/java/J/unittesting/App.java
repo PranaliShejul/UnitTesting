@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    // Afternoon task
+    public String afternoon() {
+		return "task Completed";
+    	
+    }
 }
