@@ -16,4 +16,9 @@ public class App
 		return "task Completed";
     	
     }
+    
+    // first task
+    public String  demo() {
+    	return "Welcome";
+    }
 }
